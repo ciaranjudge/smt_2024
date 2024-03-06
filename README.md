@@ -24,3 +24,4 @@ Dublin vs other development
 # Drunkard's walk!
 - It's all very well to say that things will work out ok on average
 - ...but it's the extremes that land you in the gutter
+- On average, over the last 500 million years, Ireland is somewhere around the Equator - but not much comfort when you're being blasted by freezing rain blown in off the North Atlantic
