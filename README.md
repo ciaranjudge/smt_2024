@@ -25,6 +25,7 @@ Dublin vs other development
 - It's all very well to say that things will work out ok on average
 - ...but it's the extremes that land you in the gutter
 - On average, over the last 500 million years, Ireland is somewhere around the Equator, and also largely under water.
+- https://www.youtube.com/watch?v=tsrzxTVUEU8&t=43s
 - but not much comfort when you're being blasted by freezing rain blown in off the North Atlantic
 
 # Big risks
