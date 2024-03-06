@@ -18,3 +18,9 @@
 - Has a son or daughter or sibling or parent who lives abroad
 
 Eamon Devalera joke
+
+Dublin vs other development
+
+# Drunkard's walk!
+- It's all very well to say that things will work out ok on average
+- ...but it's the extremes that land you in the gutter
